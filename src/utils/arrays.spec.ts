@@ -1,4 +1,3 @@
-import React from 'react';
 import { splitArrayIntoChunks } from './arrays'
 
 test('splitArrayIntoChunks can handle an array of inputs', () => {
